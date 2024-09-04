@@ -1,5 +1,11 @@
 # About me
-本程式碼為相機校正內\外部參數取得，影像校正(去扭曲)指引
+本程式碼會分成3步驟:
+
+Step 1: 相機校正內\外部參數取得與影像校正(去扭曲)指引
+
+Step 2: DIC Analysis 
+
+Step 3: 3D reconstruction
 
 Set Path工具包: lib_MultiDIC | lib_ext | GIBBON
 
